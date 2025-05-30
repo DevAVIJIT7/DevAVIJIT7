@@ -12,7 +12,7 @@
 
 ## I'm a FullStack Developer, Traveller, and Food Lover!!
 
-- 🔭 I’m currently working on Ruby on Rails, React JS
+- 🔭 I’m currently working on Ruby on Rails, React JS, Python
 - 🌱 I’m currently learning Devops
 - 👯 I’m looking to answers on [stackoverflow](https://stackoverflow.com/users/3951881/avijit-majhi)
 - 🥅 2025 Goals: Contribute more to Open Source projects
