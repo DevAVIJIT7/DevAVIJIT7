@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on Ruby on Rails, React JS
 - 🌱 I’m currently learning Devops
 - 👯 I’m looking to answers on [stackoverflow](https://stackoverflow.com/users/3951881/avijit-majhi)
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to eat different food by travelling different places
 
 <br />
